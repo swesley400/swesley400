@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Wesley
 
 <!---
-swesley400/swesley400 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Esse é meu cantinho, aqui coloco meus projetos para me ajudar e ajudar quem precisar de alguma coisa que eu eu aprendi, espero que eu consiga te ajudar de alguma forma, aqui você vai ver todos os tipos de projetos, atualmente estou me especializando em react e node para ser um dev full satck, tenho conhecimento em sql, html css e java script. 
 --->
