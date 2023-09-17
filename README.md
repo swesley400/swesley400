@@ -15,6 +15,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia e estou 
   - React.js: Criação de interfaces de usuário reativas e dinâmicas.
   - Electron: Desenvolvimento de aplicativos desktop multiplataforma.
   - Sass e Styled Components: Criação de estilos elegantes e reutilizáveis para aplicações web.
+  - Nest.js: Um framework de desenvolvimento back-end para criar aplicações Node.js escaláveis e eficientes, com uma arquitetura modular e orientada a objetos.
 
 ## Projetos em Destaque
 
