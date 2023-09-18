@@ -37,6 +37,4 @@ Sinta-se à vontade para entrar em contato comigo se tiver alguma pergunta, suge
 
 ---
 
-**Nota:** Este é um README básico para o seu perfil do GitHub. Sinta-se à vontade para personalizá-lo com mais detalhes sobre você, seus projetos e suas conquistas. Isso ajudará outras pessoas a conhecerem melhor o seu trabalho e suas habilidades.
-
 ![Sem Título-1](https://github.com/swesley400/swesley400/assets/79053520/349df6b8-43bc-4b1f-bfa7-8a17400e782f)
