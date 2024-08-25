@@ -21,6 +21,8 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia e estou 
 ## Projetos em Destaque
 
 Aqui estão alguns dos meus projetos em destaque:
+- https://www.urlrandom.com: encurtador de links
+- https://api.urlrandom.com/api: api encurtador de links
 - https://qrprogenerator.com/: gerador de qr code.
 - https://github.com/swesley400/envio-aquivos-aws: Construção de um api de envio de arquivos para a aws.
 - https://github.com/swesley400/renamed_images: Projeto criado para solucionar um problema, on meu cliente tinha varias imagens sem estenções e precisava saber de quem era cada imagem, base de dados do cliente havia mais de 4600 mil pacientes.
